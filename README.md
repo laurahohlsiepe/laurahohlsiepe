@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Laura and I am currently learning how to code at the Coding Bootcamps Europe.
+My name is Laura and I am currently learning how to code at the Coding Bootcamps Europe. It is my goal to become a professional Web Developer. 
+
+You can reach me under l.hohlsiepe@gmail.com. :mailbox:
 
 <!--
 **laurahohlsiepe/laurahohlsiepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
