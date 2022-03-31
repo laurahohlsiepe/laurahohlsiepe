@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Laura and I am currently learning how to code at the Coding Bootcamps Europe. It is my goal to become a professional Web Developer. 
+My name is Laura and I am currently enrolled at the Coding Bootcamps Europe. 
+
+I am a Frontend Developer, skilled in HTML, CSS and JavaScript and currently learning Vue.js.
+
+Motivated to create my own projects. ✨
 
 You can reach me under l.hohlsiepe@gmail.com. :mailbox:
 
