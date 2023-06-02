@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Laura and I am a Frontend Developer, skilled in HTML, CSS, JavaScript and Vue.js. Currently learning React and Laravel. I learned how to code at Coding Bootcamps Europe and try to teach myself by practicing. Interest in UX/UI Design. 
+My name is Laura and I am a Frontend Developer, skilled in HTML, CSS, JavaScript and Vue.js. Currently learning React and Laravel. I learned how to code at Coding Bootcamps Europe and try to teach myself by practicing. Interested in UX/UI Design and different CSS-Frameworks. 
 
-Motivated to create my own projects. ✨🧚
+Motivated to create my own little projects. ✨🧚
 
 You can reach me under l.hohlsiepe@gmail.com. :mailbox:
 
