@@ -4,8 +4,6 @@ My name is Laura and I am a Frontend Developer, skilled in HTML, CSS, JavaScript
 
 Motivated to create my own little projects. ✨🧚
 
-You can reach me under l.hohlsiepe@gmail.com. :mailbox:
-
 My Codewars Profile: https://www.codewars.com/users/laurah-1997
 
 <!--
